@@ -10,10 +10,15 @@
 - JavaScript (ES6+)
 - React
 - Node.js
-- PHP
+- Express js
+- MongoDB
 - MySQL
+- AWS
+- DOCKER(basic)
 - WordPress
 - Git & GitHub
+- Postman API
+- python
 
 ---
 
